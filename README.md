@@ -151,7 +151,10 @@
     (一个海量的漏洞利用工具：生成后门的简单工具和发布浏览器攻击等漏洞利用攻击的简单工具。该工具使用流行的有效载荷编译恶意软件，然后编译后的恶意软件可以在 windows、android、mac 上执行。使用此工具创建的恶意软件还能够绕过大多数 AV 软件)
     
     Sn1per
-    (持续攻击面管理 (ASM) 平台 - Sn1per Professional 发现攻击面并确定风险的优先级。)
+    (持续攻击面管理 (ASM) 平台 - Sn1per Professional 发现攻击面并确定风险的优先级)
+
+    Social-Engineer Toolkit
+    (The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.)
 ## 网络优化:
     
     dev-sidecar
