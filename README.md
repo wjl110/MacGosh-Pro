@@ -1,13 +1,26 @@
 # MacGosh-Pro
 将你的Mac打造成最强渗透测试武器库--收集Mac渗透测试工具分享合集:shell,poc,App,框架,脚本,工具,编辑器等
+**<img src="https://github.com/wjl110/MacGosh-Pro/image/MacGosh-Pro.png?raw=true" width="1500" alt="Medusa" />**
 
+<p align="center">
+    <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://img.shields.io/badge/Ascotbe-Medusa-green"></a>
+    <a href="https://github.com/z"><img alt="Release" src="https://img.shields.io/github/repo-size/wjl110/MacGosh-Pro"></a>
+    <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://img.shields.io/badge/python-3.7+-blueviolet"></a>
+    <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/wjl110/MacGosh-Pro/README.md"></a>
+    <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://img.shields.io/badge/Version-1.0-red"></a>
+    <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://img.shields.io/badge/LICENSE-GPL-ff69b4"></a>
+	<a href="https://github.com/wjl110/MacGosh-Pro/stargazers"><img alt="Release" src="https://img.shields.io/github/stars/wjl110/MacGosh-Pro.svg"></a>
+</p>
 ## 资产扫描端口定位:
 
+    Nessus
+    (网页版资产、漏洞、CVE、c段扫描工具,支持报告生成,漏洞介绍,漏洞是否可利用,速度快,效率高,信息收集第一步)
+
     Goby
-    (虾虎鱼由fofa公司出品——插件丰富,一键poc利用)
+    (虾虎鱼由fofa出品-客户端测试中,插件丰富,一键poc利用,支持API导入,主题换肤,靶场扫漏工具)
 
     YaKit
-    ()    
+    (正在使用中)    
 
    
 ## 代理流量分析:
@@ -16,13 +29,18 @@
 
     OWASP ZAP
     (同burp suite)
+
     Wireshark  
     (主机流量+Wi-Fi模块流量代理,内置log日志分析等常用功能)
+
+    Postman
+    (代理,改包,发包,字节注入客户端)
 
 ## 团队作战:
 
     Cobalt Strike 4.5
     (一键上线teamserver,beancon制作,APT持续攻击,红队队员合作模式)
+
 ## 代码环境编辑器:  
 
     Visual Studio Code(OS: Darwin arm64 20.6.0)  
@@ -40,9 +58,10 @@
     (简单,轻快的语言编辑器,支持markdown)
 
     WPS office
-    (国产之光,金山出品,内置word、excel、ppt以及丰富的模版)
+    (漏洞报告时使用,国产之光,金山出品,内置word、excel、ppt以及丰富的模版)
 ## 应用容器引擎:
-### Docker(一键封装自己的环境-镜像,一键拉取云上已经构建好的镜像):
+### Docker
+(一键封装自己的环境-镜像,一键拉取云上已经构建好的镜像):
 #### 常用镜像:
 
 ## shell连接:
@@ -93,8 +112,23 @@
     spider-flow
     (高度可定制化的自动化爬虫工具)
 
+    ShuiZe_0x727
+    (渗透测试资产收集工具,端口,ip,c段)
 
+    setoolkit
+    (社工工具setoolkit)
 
+    brew
+    (Mac端方便的命令源工具,一键下载,更新本机依赖)
+
+    PortBrute
+    (小巧的端口爆破工具)
+
+    Osmedeus
+    (进攻性安全的工作流引擎)
+
+    Medusa
+    (红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能)
 ## 网络优化:
     
     dev-sidecar
@@ -195,6 +229,15 @@
     kap
     (画质清晰,局部录制,文件小)
 
+## 截图工具:
+
+    iShot
+    (option+A快速截图,支持实时添加标注,字符,解释说明,文字,马赛克等)
+
+## 扩展工具:
+
+    NTFStool
+    ( Mac也能读取外接硬盘,ntfs格式,读写操作)
 
 
 
