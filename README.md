@@ -4,6 +4,7 @@
 
 
 <p align="center">
+    <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://img.shields.io/badge/Ascotbe-MacGoshpro-green"></a>
     <a href="https://github.com/z"><img alt="Release" src="https://img.shields.io/github/repo-size/wjl110/MacGosh-Pro"></a>
     <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://img.shields.io/badge/python-3.7+-blueviolet"></a>
     <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://img.shields.io/badge/Version-1.0-red"></a>
