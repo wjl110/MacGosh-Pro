@@ -1,9 +1,9 @@
 # MacGosh-Pro
 将你的Mac打造成最强渗透测试武器库--收集Mac渗透测试工具分享合集:shell,poc,App,框架,脚本,工具,编辑器等
-**<img src="https://github.com/wjl110/MacGosh-Pro/image/MacGosh-Pro.png?raw=true" width="1500" alt="Medusa" />**
+**<img src="https://github.com/wjl110/MacGosh-Pro/image/MacGosh-Pro.png?raw=true" width=1500" alt="MacGosh-Pro" />**
 
 <p align="center">
-    <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://img.shields.io/badge/Ascotbe-Medusa-green"></a>
+    <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://img.shields.io/badge/Ascotbe-MacGosh-Pro-green"></a>
     <a href="https://github.com/z"><img alt="Release" src="https://img.shields.io/github/repo-size/wjl110/MacGosh-Pro"></a>
     <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://img.shields.io/badge/python-3.7+-blueviolet"></a>
     <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/wjl110/MacGosh-Pro/README.md"></a>
