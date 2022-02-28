@@ -25,26 +25,38 @@ Mweb Pro
 # Docker:
 
 ## shell连接:
-AntSword
+AntSword  
+
 
 
 
 ## 网络优化:
-Lantern
-dev-sidecar
-Clash for Windows
-VPN-Super Unlimited Proxy
-Free VPN
+Lantern  
+
+dev-sidecar  
+
+Clash for Windows  
+
+VPN-Super Unlimited Proxy  
+
+Free VPN  
+
 
 ## 浏览器:
-Firefox
-Google Chrome
-Safari 
-360 极速浏览器
+Firefox  
+
+Google Chrome  
+
+Safari  
+
+360 极速浏览器  
+
 
 ## 数据库连接:
+
 Navicat Premium
 
 ## 缓存清理:
-CleanMyMac X
+    
+    CleanMyMac X
 
