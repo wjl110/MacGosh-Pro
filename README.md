@@ -45,7 +45,7 @@
     Cobalt Strike 4.5
     (一键上线teamserver,beancon制作,APT持续攻击,红队队员合作模式)
     
-    <img src="/image/cobaltstrike.icns?raw=true" height="50" />
+<img src="/image/cobaltstrike.icns?raw=true" height="50" />
 ## 代码环境编辑器:  
 
     Visual Studio Code(OS: Darwin arm64 20.6.0)  
