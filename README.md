@@ -1,5 +1,8 @@
 # MacGosh-Pro
-***将你的Mac打造成最强渗透测试武器库--收集Mac渗透测试工具分享合集:shell,poc,App,框架,脚本,工具,编辑器等***
+### 将你的Mac打造成最强渗透测试武器库--收集Mac渗透测试工具分享合集:shell,poc,App,框架,脚本,工具,编辑器等
+*最近因为疫情的原因,手上的Macbook Air 256g没买多久,就内存不足了,我相信这是大部分Mac用户的痛点,还一个就是环境配置————本库旨在帮助更换大内存Mac亦或是windows转Mac的渗透测试从业者一个快速环境配置,快速恢复到自己熟悉的Mac,将真正的目标聚集到解决业务问题上,而不是下载软件,亦或是配置环境上.*
+*依照本库的配置,能大概解决99%的问题*
+(都有Mac版,不存在兼容的问题)
 <p align="center">
   <img src="/image/MacGosh-Pro.png?raw=true" height="100" />
 
@@ -11,6 +14,7 @@
     <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://img.shields.io/badge/LICENSE-CC01.0-ff69b4"></a>
 	<a href="https://github.com/wjl110/MacGosh-Pro/stargazers"><img alt="Release" src="https://img.shields.io/github/stars/wjl110/MacGosh-Pro.svg"></a>
 </p>
+
 ## 资产扫描端口定位:
 
     Nessus
@@ -40,7 +44,8 @@
 
     Cobalt Strike 4.5
     (一键上线teamserver,beancon制作,APT持续攻击,红队队员合作模式)
-
+    
+    <img src="/image/cobaltstrike.icns?raw=true" height="50" />
 ## 代码环境编辑器:  
 
     Visual Studio Code(OS: Darwin arm64 20.6.0)  
@@ -129,6 +134,24 @@
 
     Medusa
     (红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能)
+
+    fscan
+    (一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描)
+
+    DDos-Attack
+    (一键ddos攻击命令行工具)
+
+    zphisher
+    (一个初学者友好的自动网络钓鱼工具，包含 30 多个模板。)
+    
+    viper
+    (Redteam operation platform with webui 图形化红队行动辅助平台 )
+    
+    Thefatrat
+    (一个海量的漏洞利用工具：生成后门的简单工具和发布浏览器攻击等漏洞利用攻击的简单工具。该工具使用流行的有效载荷编译恶意软件，然后编译后的恶意软件可以在 windows、android、mac 上执行。使用此工具创建的恶意软件还能够绕过大多数 AV 软件)
+    
+    Sn1per
+    (持续攻击面管理 (ASM) 平台 - Sn1per Professional 发现攻击面并确定风险的优先级。)
 ## 网络优化:
     
     dev-sidecar
@@ -239,5 +262,7 @@
     NTFStool
     ( Mac也能读取外接硬盘,ntfs格式,读写操作)
 
+    Myzip
+    (压缩包解压,文件快速压缩,体积小,速度快)
 
 
