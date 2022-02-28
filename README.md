@@ -50,9 +50,19 @@
     CMD(Windows)
 
 ## 渗透脚本工具:
-    nmap(最强端口信息扫描器)
+    nmap
+    (最强端口信息扫描器)
 
-    
+    sqlmap
+    (sql注入、利用扫描器)
+
+    X—Ray
+    (x射线—被动和主动式CVE特征扫描,与burp suite联动—自动化运行)
+
+    vulmap
+    (通用型CVE漏洞扫描器)
+
+
 
 
 
