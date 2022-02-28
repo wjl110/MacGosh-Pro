@@ -1,6 +1,6 @@
 # MacGosh-Pro
 将你的Mac打造成最强渗透测试武器库--收集Mac渗透测试工具分享合集:shell,poc,App,框架,脚本,工具,编辑器等
-<img src="https://raw.githubusercontent.com/wjl110/MacGosh-Pro/master/image/MacGosh-Pro.png?raw=true" width=2500" alt="MacGosh-Pro" />
+<img src="https://github.com/wjl110/MacGosh-Pro/master/image/MacGosh-Pro.png" width=2500" alt="MacGosh-Pro" />
 
 
 <p align="center">
