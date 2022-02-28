@@ -8,7 +8,7 @@
     <a href="https://github.com/z"><img alt="Release" src="https://img.shields.io/github/repo-size/wjl110/MacGosh-Pro"></a>
     <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://img.shields.io/badge/python-3.7+-blueviolet"></a>
     <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://img.shields.io/badge/Version-1.0-red"></a>
-    <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://img.shields.io/badge/LICENSE-CC0-1.0-ff69b4"></a>
+    <a href="https://github.com/wjl110/MacGosh-Pro"><img alt="Release" src="https://img.shields.io/badge/LICENSE-CC01.0-ff69b4"></a>
 	<a href="https://github.com/wjl110/MacGosh-Pro/stargazers"><img alt="Release" src="https://img.shields.io/github/stars/wjl110/MacGosh-Pro.svg"></a>
 </p>
 ## 资产扫描端口定位:
